@@ -342,6 +342,7 @@
         <h2>Payment Confirmation</h2>
         <p>Please forward all payment screenshots to the following email address:</p>
         <p><strong>mandymayfan@gmail.com</strong></p>
+        <p><strong>Then upload all screenshot</strong></p>
         <input type="file" id="payment-screenshot" accept="image/*" required>
         <button class="nav-button" onclick="submitPaymentScreenshot()">Submit</button>
         <p class="alert hidden" id="payment-screenshot-alert"></p>
